@@ -5,7 +5,7 @@
       "f": 70.0,
       "s": "13.0.3",
       "e": 18.0,
-      "i": 15.0,
+      "i": 11.630.19041.0,
       "ios": "13.2",
       "samsung": 10.1,
       "o": 64.0,
@@ -405,11 +405,11 @@
     },
     "waterfox": {
       "name": "Waterfox",
-      "link": "https://waterfoxproject.org",
+      "link": "https://waterfox.net",
       "core": "Firefox",
       "engine": "Gecko",
       "vendor": "Open Source",
-      "download_url": "https://waterfoxproject.org",
+      "download_url": "https://waterfox.net",
       "available_for": {
         "android": 4.1,
         "win": 5,
